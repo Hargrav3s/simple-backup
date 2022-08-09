@@ -1,0 +1,13 @@
+{
+    "backups": [
+      {
+        "name": "minecraft_saves",
+        "backup_from": "C:/Users/Sketc/AppData/Roaming/.minecraft/saves",
+        "backup_to": "F:/MinecraftSavesBackups",
+        "when": {
+          "value": 1,
+          "units": "days"
+        }
+      }
+    ]
+  }
